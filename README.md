@@ -1,0 +1,9 @@
+# Financiamiento Chino al Desarrollo en el siglo XXI: análisis de transferencias oficiales entre 2011 y 2021
+## Franco Aguirre
+### 26-09-2024
+
+El trabajo propone realizar un análisis y visualización de datos sobre financiamiento oficial de la República Popular de China hacia países en desarrollo en el siglo XXI, especialmente su evolución en el tiempo y su clasificación por destinatarios, sectores y tipo de transferencias.
+
+Para la creación y transformación de la base de datos, se empleó Microsoft Excel. Para transformaciones adicionales, configuración de relaciones, diseño de tablero y análisis de los datos, se recurrió a Power BI. También se realizaron algunas prácticas con SQL.
+
+Se concluye que el financiamiento al desarrollo de China ha crecido considerablemente en la última década. Aunque no llegó a duplicarse, sí alcanzó un pico cercano a esos registros durante el año de la pandemia. Por otra parte, se observó que las transferencias se han direccionado hacia países y sectores tradicionalmente excluidos de la Asistencia Oficial al Desarrollo, independientemente de su nivel de ingresos y pertenencia regional. Aunque los mayores destinatarios han sido países de bajos ingresos según los criterios de la OCDE, con especial foco en África, los mayores receptores de transferencias chinas no forman parte de estos grupos. Asimismo, los sectores de infraestructura y energía se posicionan entre los más financiados por este país, lo cual indica un abordaje hacia problemas estructurales en estos países. Ello ratifica las hipótesis establecidas previamente, y amplía su alcance hacia países de renta media-alta.
